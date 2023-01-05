@@ -1,0 +1,41 @@
+#High {
+    text-align: center;
+    size: 2cm;
+    height: 200px;
+    color: rgba(186, 226, 149, 0.486);
+    background-image: url('../image/love.jpg');
+    background-size: cover;
+    background-position: cover;
+    background-repeat: round;
+    background-color: aquamarine;
+}
+
+
+h1 {
+    color: red;
+    text-align: center;
+}
+span {
+    color: aquamarine;
+    size: .5cm;
+
+}
+div{
+    color: rgb(111, 0, 255);
+    border: 5px solid brown;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 10px;
+    box-shadow: 20px 50px 40px 30px rgb(187, 127, 127);
+
+
+}
+a{
+    text-decoration: none;
+}
+#mouse{
+    color: blue;
+}
+.fff{
+    color: rgb(0, 255, 128);
+}
